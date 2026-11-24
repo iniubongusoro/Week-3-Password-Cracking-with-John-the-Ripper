@@ -56,7 +56,7 @@ john --show hash.txt
 
 John the Ripper cracked the hash in 13 seconds. `--show` confirmed the recovered password: **`good-luck`**.
 
-![John the Ripper cracking hash.txt — password good-luck](screenshots/02-crack-pdf1-goodluck.png)
+![John the Ripper cracking hash.txt — password good-luck](02-crack-pdf1-goodluck.png)
 
 ### 3. Prepare PDF2 (`My Locked PDF2.pdf`) and extract its hash
 
