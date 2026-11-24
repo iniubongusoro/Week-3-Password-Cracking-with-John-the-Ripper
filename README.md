@@ -68,7 +68,7 @@ A second protected file was copied from the shared folder, and `pdf2john` extrac
 
 John the Ripper completed almost instantly against `hash2.txt`. `--show` confirmed the recovered password: **`password1`**.
 
-![John the Ripper cracking hash2.txt — password password1](screenshots/04-crack-pdf2-password1.png)
+![John the Ripper cracking hash2.txt — password password1](password1.png)
 
 ---
 
