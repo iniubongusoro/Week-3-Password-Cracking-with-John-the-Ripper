@@ -89,7 +89,7 @@ Cover pages issued for the two related NetworkWalks training challenges:
 
 ![JTR module flag captured](06-jtr-flag-captured.png)
 
-![Hash Calculator module flag captured](screenshots/08-hash-calculator-flag-captured.png)
+![Hash Calculator module flag captured](08-hash-calculator-flag-captured.png)
 
 > **Note:** the passwords and flags above come from different files and stages of the exercise and
 > should not be treated as interchangeable.
