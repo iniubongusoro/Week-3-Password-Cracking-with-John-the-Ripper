@@ -62,7 +62,7 @@ John the Ripper cracked the hash in 13 seconds. `--show` confirmed the recovered
 
 A second protected file was copied from the shared folder, and `pdf2john` extracted its hash into `hash2.txt`.
 
-![Copying My Locked PDF2.pdf and extracting its hash with pdf2john](03-prepare-pdf2-pdf2john (1).png)
+![Copying My Locked PDF2.pdf and extracting its hash with pdf2john](03-prepare-pdf2-pdf2john.png)
 
 ### 4. Crack PDF2 with John the Ripper
 
