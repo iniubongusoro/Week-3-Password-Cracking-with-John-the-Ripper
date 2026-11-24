@@ -78,7 +78,7 @@ Cover pages issued for the two related NetworkWalks training challenges:
 
 | JTR module | Hash Calculator / NetworkWalks Tools module |
 |---|---|
-| ![JTR module cover](05-jtr-module-cover.png) | ![Hash Calculator module cover](screenshots/07-hash-calculator-module-cover.png) |
+| ![JTR module cover](05-jtr-module-cover.png) | ![Hash Calculator module cover](07-hash-calculator-module-cover.png) |
 
 ## 🚩 Flags Captured
 
