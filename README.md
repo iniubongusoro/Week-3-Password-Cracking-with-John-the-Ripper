@@ -45,7 +45,7 @@ the NetworkWalks training-module evidence and the challenge flags captured along
 The file was located in the shared VirtualBox folder `/media/sf_Cybersecurity/`, copied into the Kali
 home directory, and `pdf2john` was used to extract a crackable hash into `hash.txt`.
 
-![Copying My Locked PDF1.pdf and extracting its hash with pdf2john](screenshots/01-prepare-pdf1-pdf2john.png)
+![Copying My Locked PDF1.pdf and extracting its hash with pdf2john](01-prepare-pdf1-pdf2john.png)
 
 ### 2. Crack PDF1 with John the Ripper
 
