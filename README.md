@@ -87,7 +87,7 @@ Cover pages issued for the two related NetworkWalks training challenges:
 | JTR module | `nw{cybersecurity_flag_captured_2608}` |
 | Hash Calculator / NetworkWalks Tools module | `nw{networkwalks_persistence_jtr_270521}` |
 
-![JTR module flag captured](screenshots/06-jtr-flag-captured.png)
+![JTR module flag captured](06-jtr-flag-captured.png)
 
 ![Hash Calculator module flag captured](screenshots/08-hash-calculator-flag-captured.png)
 
@@ -103,7 +103,7 @@ Cover pages issued for the two related NetworkWalks training challenges:
 | W3-PM1 – Password Cracking with JTR | ✅ Evidence documented (two PDFs cracked locally) |
 | W3-PM2 – Password Cracking with NetworkWalks Tools | ✅ Module cover and flag-capture evidence documented |
 
-## ⚠️ Ethical & Safety Note
+##  Ethical & Safety Note
 
 Password recovery and security testing were performed only on files prepared for this internship lab
 exercise. These techniques must only be used on files, accounts, or systems you own or are explicitly
