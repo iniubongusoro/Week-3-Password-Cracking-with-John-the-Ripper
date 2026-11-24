@@ -1,5 +1,4 @@
 # Password Cracking with John the Ripper (JTR)
-
 **NetworkWalks Cybersecurity Internship — Batch B084 — Week 3 (W3-PM1)**
 
 | | |
