@@ -16,7 +16,7 @@ This repo documents the Week 3 password-cracking practical: extracting password 
 protected PDF files and recovering the passwords with **John the Ripper (JTR)** on Kali Linux, plus
 the NetworkWalks training-module evidence and the challenge flags captured along the way.
 
-## 🎯 Objectives
+##  Objectives
 
 - Prepare password-protected PDF files in the Kali Linux working directory.
 - Extract compatible PDF password hashes using `pdf2john`.
@@ -24,7 +24,7 @@ the NetworkWalks training-module evidence and the challenge flags captured along
 - Verify each recovered password using the JTR `--show` function.
 - Record the NetworkWalks training-interface results and challenge flags.
 
-## 🛠 Tools & Resources
+## Tools & Resources
 
 | Tool / Resource | Purpose |
 |---|---|
@@ -38,7 +38,7 @@ the NetworkWalks training-module evidence and the challenge flags captured along
 
 ---
 
-## 🔍 Practical Workflow
+## Practical Workflow
 
 ### 1. Prepare PDF1 (`My Locked PDF1.pdf`) and extract its hash
 
@@ -72,7 +72,7 @@ John the Ripper completed almost instantly against `hash2.txt`. `--show` confirm
 
 ---
 
-## 🏁 NetworkWalks Training Modules
+##  NetworkWalks Training Modules
 
 Cover pages issued for the two related NetworkWalks training challenges:
 
@@ -80,7 +80,7 @@ Cover pages issued for the two related NetworkWalks training challenges:
 |---|---|
 | ![JTR module cover](05-jtr-module-cover.png) | ![Hash Calculator module cover](07-hash-calculator-module-cover.png) |
 
-## 🚩 Flags Captured
+##  Flags Captured
 
 | Module | Flag |
 |---|---|
